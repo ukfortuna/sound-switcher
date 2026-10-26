@@ -1,4 +1,4 @@
-# Sound Switcher — experimental 0.1.5
+# Steam Sound Switcher
 
 A Millennium plugin prototype with a Turkish settings menu for custom **private-message notification sounds**. Target environment: Millennium v3.6.2 on Windows. This is source code, not a ready-to-install release.
 
