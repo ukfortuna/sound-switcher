@@ -1,0 +1,7 @@
+node_modules/
+.millennium/
+dist/
+*.log
+*.wav
+*.mp3
+*.m4a
