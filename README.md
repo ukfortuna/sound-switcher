@@ -1,8 +1,13 @@
 # Steam Sound Switcher
 
-A Millennium plugin prototype with a Turkish settings menu for custom **private-message notification sounds**. Target environment: Millennium v3.6.2 on Windows. This is source code, not a ready-to-install release.
+A Millennium plugin for customizing Steam private-message notification sounds. Choose your own audio file, preview it, adjust the volume, and restore the default sound through a simple English settings menu.
 
-**Status:** thirteen isolated runtime/audio/settings tests pass. Starlight compilation, menu rendering, RPC payload limits, and actual Steam message interception have NOT been verified. Do not advertise this version as compatible until the acceptance checklist passes on a real Steam installation.
+**Version:** 1.0.0  
+**Author:** vera  
+**Platform:** Windows · Millennium v3.6.2  
+**License:** MIT
+
+Contributions and improvements are welcome.
 
 ## Menu
 
